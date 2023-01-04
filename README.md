@@ -1,7 +1,5 @@
 # Projet MWSOC Let's go bicking
 
-fais en collaboration avec Ayman Elfiguigui 
-
 ## Fonctionnalités implémentées
 
 * mvp
