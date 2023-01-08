@@ -1,5 +1,7 @@
 # Projet MWSOC Let's go bicking
 
+Le but du projet "Let's Go Biking!" est de développer une petite application pour calculer les itinéraires en réduisant au maximum la distance à parcourir à pied (en utilisant des vélos à la place).
+
 ## Fonctionnalités implémentées
 
 * mvp
